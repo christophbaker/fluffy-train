@@ -1,4 +1,4 @@
-FROM conanio/gcc11:1.44.1
+FROM ubuntu:kinetic
 
 # switch to root
 USER root
